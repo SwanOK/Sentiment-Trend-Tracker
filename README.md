@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A lightweight Python-based tool designed to analyze the emotional tone of user comments and visualize the overall trend. This project is ideal for tracking brand sentiment, analyzing product feedback, or monitoring community reactions in real-time.
+A lightweight Python-based tool designed to analyze the emotional tone of user comments and visualize the overall trend. <br>This project is ideal for tracking brand sentiment, analyzing product feedback, or monitoring community reactions in real-time.
 
 ## Overview
 
