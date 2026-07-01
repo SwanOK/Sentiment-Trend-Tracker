@@ -90,7 +90,7 @@ python main.py
 ---
 
 ## Future Roadmap
-- [ ] **API Integration**: Connect to the Twitter/X or Reddit API to fetch live comments.
+- [x] **API Integration**: Connect to the Twitter/X or Reddit API to fetch live comments.
 - [ ] **Interactive Dashboard**: Use Streamlit to create a web-based UI.
 - [ ] **Multi-language Support**: Integrate Google Translate API for non-English comments.
 
